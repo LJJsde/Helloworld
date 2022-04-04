@@ -1,7 +1,7 @@
 # What is this?
 Some ways to print "helloworld".
 
-
+ 
 
 
 # What is it for?
@@ -15,5 +15,5 @@ Some ways to print "helloworld".
 
 Making simple things as more complicated as it could be.
 
-
+Writing by golang.
 
