@@ -17,3 +17,9 @@ Making simple things as more complicated as it could be.
 
 Writing by golang.
 
+
+
+
+# Function list
+
+In progress!
